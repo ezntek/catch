@@ -1,0 +1,9 @@
+{
+    "extraPaths": ["game/"],
+    "executionEnvironments": [
+        {
+            "root": "game/",
+            "extraPaths": ["."]
+        }
+    ]
+}
